@@ -1,5 +1,4 @@
 import calendar
-import random
 
 class Finance:
     def __init__(self, salary, month, savingsPercentage, rentPercentage, electricityPercentage, additionalSavings):
